@@ -7,7 +7,7 @@ import App from "./App";
 // import "./styles/global-nav.css";
 
 const generateClassName = createGenerateClassName({
-  seed: 'main-child',
+  seed: 'navbar',
 });
 
 export default function Root(props) {

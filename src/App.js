@@ -11,7 +11,7 @@ export class App extends Component {
   render() {
     return (
       <div>
-        This is child mfe
+        This is navbar mfe
       </div>
     )
   }
