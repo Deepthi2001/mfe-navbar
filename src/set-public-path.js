@@ -5,4 +5,4 @@ import { setPublicPath } from "systemjs-webpack-interop";
  * https://single-spa.js.org/docs/faq/#code-splits
  */
 
-setPublicPath("@mfe-demo/navbar");
+setPublicPath("@mfe-demo/main-child-ui");
