@@ -5,8 +5,7 @@ import { withRouter } from "react-router";
 export function Routes(props) {
 
 
-  return (
-  );
+  return ( <></> );
 }
 
 export default withRouter(Routes);

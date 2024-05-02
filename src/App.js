@@ -9,10 +9,9 @@ export class App extends Component {
   }
 
   render() {
-    console.log("navbar app component")
     return (
       <div>
-        This is navbar component
+        This is child mfe
       </div>
     )
   }

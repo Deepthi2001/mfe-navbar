@@ -7,7 +7,7 @@ const path = require("path");
 module.exports = (webpackConfigEnv) => {
   const defaultConfig = singleSpaDefaults({
     orgName: "mfe-demo",
-    projectName: "navbar",
+    projectName: "main-child",
     webpackConfigEnv,
   });
 

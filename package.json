@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "serve build -l 8080 --cors",
-    "local": "webpack-dev-server --port 3003",
+    "local": "webpack-dev-server --port 3001",
     "build": "webpack --config webpack.config.js",
     "postbuild": "cp -f package*.json ./dist/",
     "analyze": "webpack --mode=production --env.analyze=true",
